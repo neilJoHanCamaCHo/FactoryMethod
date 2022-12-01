@@ -1,2 +1,2 @@
 # FactoryMethod
-ingeniero se me subio en modo maestro i no en main 
+ingeniero se me subio en modo master i no en main 
